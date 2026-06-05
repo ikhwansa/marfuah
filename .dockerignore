@@ -6,7 +6,3 @@ README.md
 .next
 .git
 .gitignore
-.eslintrc.json
-eslint.config.mjs
-postcss.config.mjs
-next-env.d.ts
